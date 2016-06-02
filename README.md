@@ -1,0 +1,1 @@
+# nvidia-docker-ccminer-lyra
